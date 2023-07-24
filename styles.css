@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.img-misha{
+
+    width: 150px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+border-bottom: 8px solid #2b2839;
+border-top:8px solid #2b2839;
+padding: 20px;
+width: 400px;
+    width: 400px;
+margin: 0 auto;
+background-color: rgb(255, 208, 0);
+color: #2b2839
+
+ 
+}
+
+
+
+.content {
+text-align: center;
+margin-top: 13px;
+}
